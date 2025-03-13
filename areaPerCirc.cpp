@@ -2,7 +2,7 @@
 //
 // Created by Dylan Mutabazi
 // Created March 2025
-// This program calculates the circumference;
+// This program calculates the circumference and area of a circle;
 
 #include <cmath>
 #include <iostream>
